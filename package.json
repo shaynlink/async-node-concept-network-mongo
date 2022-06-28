@@ -1,0 +1,15 @@
+{
+  "name": "async-node-concept-network-mongo",
+  "version": "1.0.0",
+  "main": "async-node-concept-network-mongo.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mongodb-js/zstd": "^1.0.0"
+  }
+}
